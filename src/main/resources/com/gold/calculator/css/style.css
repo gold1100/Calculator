@@ -1,0 +1,27 @@
+.primary-color{
+    -fx-background-color: #FFFFFF;
+}
+
+.secondary-color{
+    -fx-background-color: #dce0ca;
+}
+
+.round-border{
+    -fx-background-radius: 100;
+}
+
+.text-display{
+    -fx-font-size: 25px;
+    -fx-text-fill: "black";
+}
+
+.button{
+    -fx-font-size: 20px;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: "black";
+}
+
+.combo-box .cell{
+    -fx-text-fill: black;
+    -fx-background-color: #dce0ca;
+}
