@@ -1,1 +1,1 @@
-Simple calculator, made using javaFX
+Simple calculator, made in plaing java + javaFX.
